@@ -1,6 +1,6 @@
 ---
 name: system-landscape
-description: Use when someone needs to document, map or inventory an organisation's technology landscape — "what systems do we actually run", "map our infrastructure", "we have no IT documentation", onboarding a new IT lead, preparing for an audit, due diligence, or a migration. Guides the user through structured discovery interviews and read-only PowerShell collection they run themselves, builds a system inventory with owners, criticality and dependencies, flags gaps, and produces a bilingual (EN + pt-PT) landscape document. Not for drawing a network diagram on its own, and not for importing an existing CMDB.
+description: Use when someone needs to document, map, inventory or diagram an organisation's technology landscape — "what systems do we actually run", "map our infrastructure", "draw our estate", "we need a systems overview", "we have no IT documentation" — or when onboarding a new IT lead, preparing for an audit or due diligence, or planning a migration. Guides the user through discovery interviews and read-only PowerShell collection they run on their own machines, then produces a one-page A3 landscape diagram (HTML, printable to PDF) and a full inventory document covering owners, criticality, dependencies and gaps, in English and European Portuguese. Not for a network topology drawing on its own, and not for reconciling an existing CMDB.
 ---
 
 # System Landscape Documentation
