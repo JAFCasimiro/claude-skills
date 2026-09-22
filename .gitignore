@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+secrets/
+.venv/
+__pycache__/
+node_modules/
