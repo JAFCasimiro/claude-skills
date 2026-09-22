@@ -1,0 +1,21 @@
+# Machine list for Invoke-LandscapeCollection.ps1
+#
+# One machine name per line. Lines starting with # are ignored, and so are
+# blank lines. Names must resolve from the machine you run the script on:
+# a short name, an FQDN or an IP address all work.
+#
+# Copy this file to servers.txt and replace the examples below.
+# servers.txt is git-ignored, so your real machine names stay local.
+
+# --- Domain controllers ---
+DC01
+DC02
+
+# --- Application servers ---
+SRV-ERP01
+SRV-FILE01
+srv-web01.example.local
+
+# --- Not reachable yet, keep here so they are not forgotten ---
+# SRV-LEGACY01   no WinRM, run the scripts locally
+# 10.20.30.40    appliance, no shell

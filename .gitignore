@@ -12,3 +12,13 @@ secrets/
 .venv/
 __pycache__/
 node_modules/
+
+# Machine lists and collection output — real hostnames stay local
+servers.txt
+**/servers.txt
+LandscapeData/
+**/LandscapeData/
+*-inventory.json
+*-software.json
+*-services.json
+*-security.json

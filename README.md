@@ -14,7 +14,7 @@ where there is no dedicated security team.
 
 | Skill | What it does |
 |-------|--------------|
-| _(coming soon)_ | |
+| [system-landscape](skills/system-landscape) | Documents an organisation's technology estate. Guides you through discovery interviews and read-only PowerShell collection you run yourself, then builds the inventory, dependency map and gap list. Delivers a one-page A3 visual (HTML → PDF) plus the full document, in English and European Portuguese. |
 
 ## Installing a skill
 
